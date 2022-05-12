@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+    padding-top: 94px;
+}
+
+input[type=checkbox]:checked + label.strikethrough{
+    text-decoration: line-through;
+  }
+
+.space {
+    padding-bottom: 4px;
+    text-align:center
+}
